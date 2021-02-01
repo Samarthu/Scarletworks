@@ -1,0 +1,26 @@
+.co_n { margin: 150px auto; max-width: 600px; }
+    .slides { background-color: #222; color: #fff; border-radius: 3px; margin: 1.5rem auto;  }
+    #photoDemo {
+    text-align: center;
+}
+
+#photoDemo .controls {
+    margin-bottom: 1em;
+}
+
+#photoDemo .navigation {
+    margin-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+#photoDemo .navigation .title img {
+    width: 50px;
+}
+
+#photoDemo .slides img, #photoDemo .selected img {
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+h2 { margin: 3rem auto;}
+#photoDemo .slides { min-height: 200px;}
